@@ -142,4 +142,5 @@ def estudar_modulo():
     input("✅ Pressione ENTER para marcar como concluído e voltar...")
 
 # Iniciar o sistema
-menu_principal()
+menu_principal() 
+hhh
